@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Architects+Daughter|Archivo+Black|Kaushan+Script|Merriweather|Passion+One|Patrick+Hand|Paytone+One|Permanent+Marker|Playfair+Display|Poiret+One|Rancho|Roboto+Slab|Satisfy|Teko|Varela+Round');
+
+.navbar {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    background: #120a3f;
+}
+
+.navbar-toggler {
+    outline: none !important;
+    box-shadow: none;
+ }
+
+a {
+    color: #fff;
+}
+
+.page-footer, .footer-copyright {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    background: #120a3f;
+    color: #fff;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}

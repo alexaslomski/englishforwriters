@@ -1,0 +1,50 @@
+.card {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    border-radius: 0%;
+    border: transparent;
+}
+
+.card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btn {
+    background: #120a3f;
+    border-radius: 0%; 
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+
+.btn-flash {
+    background: #fff;
+    color: #120a3f;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.btn-flash:hover {
+    color: #120a3f;
+}
+
+.jumbotron {
+    background: #120a3f;
+}
+
+.display-4 {
+    font-family: 'Playfair Display', serif;
+    color: #fff;  
+}
+
+.navbar-toggler {
+    outline: none !important;
+    box-shadow: none;
+ }

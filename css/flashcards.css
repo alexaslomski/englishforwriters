@@ -1,0 +1,43 @@
+#carousel-example-2 {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.carousel-caption {
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    font-size: 5rem;
+}
+
+p {
+    font-size: 4rem;
+}
+
+.jumbotron {
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    background: #120a3f;
+    border-radius: 0%;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+
+.btn-flash {
+    background: #fff;
+    color: #120a3f;
+    border-radius: 0%;
+    font-weight: bold;
+}
+
+.btn-form {
+    background: #120a3f;
+    color: #fff;
+    border-radius: 0%;
+}
